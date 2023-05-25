@@ -1,4 +1,4 @@
-# Monster Rolodex 2.0
+# Monster Rolodex 
 
 ## Introduction
 Monster Rolodex is a React application that showcases the use of fundamental React concepts such as class components, state, and props. The project also utilizes CSS for styling and embraces the concept of React lifecycle methods to handle data fetching and updates.
